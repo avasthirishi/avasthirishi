@@ -3,8 +3,7 @@
 🌱 MERN Stack Developer | Cybersecurity Enthusiast | B.Tech (IT, 2021–2025)  
 
 🔭 **Currently working on:**  
-- 🚀 Building scalable MERN stack applications  
-- 🌾 Developing Agri-Tech platforms for sustainable farming  
+- 🚀 Building scalable MERN stack applications.
 
 ---
 
